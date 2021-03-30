@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">UTS_NICOLAS</string>
+
+    <string-array name="LaLiga_Club">
+        <item>Real Madrid</item>
+        <item>Barcelona</item>
+        <item>Atletico Madrid</item>
+        <item>Valencia</item>
+        <item>Villareal</item>
+        <item>Real Betis</item>
+        <item>Levante</item>
+        <item>Real Sociedad</item>
+        <item>Athletic Bilbao</item>
+    </string-array>
+    
+    <string-array name="Deskripsi">
+        <item>Pelatih Tim : Zinédine Zidane </item>
+        <item>Pelatih Tim : Ronald Koeman </item>
+        <item>Pelatih Tim : Diego Simeone</item>
+        <item>Pelatih Tim : Javi Gracia </item>
+        <item>Pelatih Tim : Unai Emery</item>
+        <item>Pelatih Tim : Manuel Pellegrini</item>
+        <item>Pelatih Tim : Paco Lopez </item>
+        <item>Pelatih Tim : Imanol Alguacil</item>
+        <item>Pelatih Tim : Marcelino García Toral</item>
+
+
+    </string-array>
+
+</resources>
